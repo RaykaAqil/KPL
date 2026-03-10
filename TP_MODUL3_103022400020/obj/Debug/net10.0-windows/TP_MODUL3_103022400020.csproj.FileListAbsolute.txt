@@ -14,3 +14,4 @@ C:\Users\Rayka\source\repos\TP_MODUL3_103022400020\TP_MODUL3_103022400020\obj\De
 C:\Users\Rayka\source\repos\TP_MODUL3_103022400020\TP_MODUL3_103022400020\obj\Debug\net10.0-windows\TP_MODUL3_103022400020.genruntimeconfig.cache
 C:\Users\Rayka\source\repos\TP_MODUL3_103022400020\TP_MODUL3_103022400020\obj\Debug\net10.0-windows\ref\TP_MODUL3_103022400020.dll
 C:\Users\Rayka\source\repos\TP_MODUL3_103022400020\TP_MODUL3_103022400020\obj\Debug\net10.0-windows\TP_MODUL3_103022400020.Kalkulator.resources
+C:\Users\Rayka\source\repos\TP_MODUL3_103022400020\TP_MODUL3_103022400020\obj\Debug\net10.0-windows\TP_MODUL3_103022400020.sourcelink.json

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL3_103022400020\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE85CCC8-E6F7-4C7C-B79D-931DD8A02202}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|c:\\users\\rayka\\source\\repos\\tp_modul3_103022400020\\tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE85CCC8-E6F7-4C7C-B79D-931DD8A02202}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|solutionrelative:tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB25BDB0-8B06-E025-E0AA-3117D659A278}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|c:\\users\\rayka\\source\\repos\\tp_modul3_103022400020\\tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB25BDB0-8B06-E025-E0AA-3117D659A278}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|solutionrelative:tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE85CCC8-E6F7-4C7C-B79D-931DD8A02202}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|c:\\users\\rayka\\source\\repos\\tp_modul3_103022400020\\tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BE85CCC8-E6F7-4C7C-B79D-931DD8A02202}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|C:\\Users\\Rayka\\source\\repos\\TP_MODUL3_103022400020\\tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BE85CCC8-E6F7-4C7C-B79D-931DD8A02202}|TP_MODUL3_103022400020\\TP_MODUL3_103022400020.csproj|solutionrelative:tp_modul3_103022400020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "TP_MODUL3_103022400020\\Form1.cs",
               "ToolTip": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL3_103022400020\\TP_MODUL3_103022400020\\Form1.cs",
               "RelativeToolTip": "TP_MODUL3_103022400020\\Form1.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAA8wAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T21:56:32.556Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL3_103022400020\\TP_MODUL3_103022400020\\Form1.cs [Design]",
               "RelativeToolTip": "TP_MODUL3_103022400020\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:55:03.653Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-08T21:55:03.653Z"
             }
           ]
         }
